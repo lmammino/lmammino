@@ -1,6 +1,6 @@
 # 👋 Hello, this is Luciano!
 
-<p align="right"><a href="https://amzn.to/2ZQnpZS"><img src="https://github.com/lmammino/lmammino/blob/master/nodejsdp.jpg?raw=true"></a></p>
+<a href="https://amzn.to/2ZQnpZS"><img width="260" align="right" src="https://github.com/lmammino/lmammino/blob/master/nodejsdp.jpg?raw=true"></a>
 
 
 I wrote my first line of code at the age of 12 on my father's old i386 👨‍💻. Since then, I never stopped coding. I am currently working at  FabFitFun as Principal Software Engineer where I am building microservices to serve millions of users every day.
