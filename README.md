@@ -1,4 +1,4 @@
-<a href="https://amzn.to/2ZQnpZS"><img width="260" align="right" src="https://github.com/lmammino/lmammino/blob/master/nodejsdp.jpg?raw=true"></a>
+<a href="https://amzn.to/2ZQnpZS"><img width="200" align="right" src="https://github.com/lmammino/lmammino/blob/master/nodejsdp.jpg?raw=true"></a>
 
 # 👋 Hello, this is Luciano!
 
