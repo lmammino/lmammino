@@ -6,7 +6,7 @@ I wrote my first line of code at the age of 12 on my father's old i386 👨‍�
 
 I am the co-author of [Node.js Design Patterns](https://amzn.to/2ZQnpZS) and I run [Fullstack Bulletin](fstack.link), a free weekly newsletter for fullstack developers.
 
-## Where you can find me
+## Where to find me
 
 - 🌎 On my blog at [loige.co](https://loige.co)
 - 🐦 On Twitter at [@loige](https://twitter.com/loige)
