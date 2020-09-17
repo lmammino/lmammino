@@ -9,5 +9,6 @@ I am the co-author of [Node.js Design Patterns](https://nodejsdp.link) and I run
 ### Where to find me
 
 - 🌎 On my blog at [loige.co](https://loige.co)
+- 👨‍💻 On Dev.to at [@loige](https://dev.to/loige)
 - 🐦 On Twitter at [@loige](https://twitter.com/loige)
 - 👨‍💼 On [LinkedIn](https://www.linkedin.com/in/lucianomammino/)
