@@ -11,5 +11,7 @@ I am the co-author of [Node.js Design Patterns](https://www.nodejsdesignpatterns
 - 🌎 On my blog at [loige.co](https://loige.co)
 - 👨‍💻 On Dev.to at [@loige](https://dev.to/loige)
 - 🐦 On Twitter at [@loige](https://twitter.com/loige)
+- 🐘 On Mastodon at [mastodon.ie/@loige](https://mastodon.ie/@loige)
+- ☁️ On BlueSky as [@loige.co](https://staging.bsky.app/profile/loige.co)
 - 🎥 On Twitch at [@loige](https://twitch.tv/loige) (and [on YouTube too](https://www.youtube.com/loige))
 - 👨‍💼 On [LinkedIn](https://www.linkedin.com/in/lucianomammino/)
